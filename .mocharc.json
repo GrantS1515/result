@@ -1,0 +1,4 @@
+{
+	"watch-files": ["dist/**/*"],
+	"timeout": 2000
+}
